@@ -1,0 +1,486 @@
+*{         
+    padding: 0px;
+    margin: 0px;
+    background-color: #fff7fb;
+    list-style-type: none; 
+    text-decoration: none; 
+    box-sizing: border-box; 
+    padding-right: 6px;
+}     
+.topnav{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+    
+    
+}
+body{
+    padding: 0px;
+    margin: 0px;
+} 
+.link ul li{
+    list-style-type: none;
+    display: inline;
+    margin-top: 15px;
+    
+}
+.brand img{
+    width: 200px;
+}
+.h2{
+    margin-right: 23px;
+}
+.brand1  img {
+    height:382px;
+    width:787px ;
+      /*  scroll-margin-bottom:400px ;
+        margin-left: 200px;
+        margin-bottom:50px;
+        margin-right: 300px;
+        right: 300;
+        bottom: 2000px;
+    background-position: center; */ 
+    margin-left:162px;
+    margin-bottom: 6px;
+    
+}
+.mybutton1{
+    color:white;
+    margin-top: 15px;
+    margin-left: 180px;
+    border: 40px  blue; 
+   /* border-top-right-radius: 6px;
+    border-top-left-radius :6px;
+    border-bottom-right-radius:6px;
+    border-bottom-left-radius:6px;
+    box-shadow: 2px 2px blue; */
+    cursor: pointer;
+    background-color: blue;
+
+}   
+
+/*.mybutton2{
+    color: white;
+    margin-top: 15px;
+    border: 40px  black;
+    border-top-right-radius: 6px;
+    border-top-left-radius :6px;
+    border-bottom-right-radius:6px;
+    border-bottom-left-radius:6px;
+    box-shadow: 2px 2px lightblue;
+    cursor: pointer;
+}
+.mybutton3{
+    color:white;
+    border: 40px  black;
+    border-top-right-radius: 6px;
+    border-top-left-radius :6px;
+    border-bottom-right-radius:6px;
+    border-bottom-left-radius:6px;
+    margin-left: 100px;
+    box-shadow: 2px 2px lightblue;
+    cursor: pointer;
+} */
+.heading{
+    display: inline-block;
+    margin-left: 190px;
+    margin-top: 54px;
+}
+.main{
+    margin-top: 15px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    size: px; 
+    position: relative;
+    width: 30px;
+    height: 42px;
+   /* border: 4px solid ;
+    padding: 0px 10px;*/
+
+}
+.heading2{
+      margin-left:0px;
+      margin-top: 0px;
+      margin-bottom:0px;
+      text-align: center;
+      padding: 0px;
+}
+.style1{
+    
+    width: 166px;
+    height: 58px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: -29px;
+    text-align: center;
+    margin-left: 450px;
+    
+
+}
+.college{
+    width:198px;
+    height:107px;
+    border:1px solid black;
+     box-sizing: border-box;
+     padding: 50px;
+    margin-left:208px;
+    margin-right: 0px;
+    margin-top: 5px;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+.university{
+    
+    width:198px;
+    height:107px;
+    border:1px solid black;
+     box-sizing: border-box;
+     padding: 50px;
+    margin-left:500px;
+    margin-right: 0px;
+    margin-top: -100px;
+    background-color:blueviolet;
+    cursor: pointer;
+    
+
+}
+.course{
+    width:198px;
+    height:108px;
+    border:1px solid black;
+     box-sizing: border-box;
+     padding: 50px;
+    margin-left:780px;
+    margin-right: 0px;
+    margin-top: -100px;
+    background-color: blueviolet;
+
+    cursor: pointer;
+
+}
+.BOX college university course{
+    display: inline;
+}
+.heading3{ 
+    margin-left: -244px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    text-align: center;
+
+}
+/*.style2{
+     margin-left: 350px;
+
+}*/
+.CS{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+    box-sizing: border-box;
+    padding: 31px;
+    margin-left:28px;
+    margin-right: 32px;
+    margin-top: 5px;
+    
+    cursor: pointer;
+    padding: 40px;
+    
+}
+/*img{
+    float:left;
+    width: 50px;
+    
+}*/
+.IT{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:493px;
+    margin-right: 0px;
+    margin-top: -215px;
+    
+    cursor: pointer;
+
+
+}
+.CHEMICAL{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:949px;
+    margin-right: 0px;
+    margin-top: -218px;
+    
+    cursor: pointer;
+
+
+}
+.CIVIL{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:29px;
+    margin-right: 0px;
+    margin-top: 50px;
+    
+    cursor: pointer;
+
+
+}
+.MECHENICAL{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:491px;
+    margin-right: 0px;
+    margin-top: -219px;
+    
+    cursor: pointer;
+
+
+}
+.ELECTRICAL{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:949px;
+    margin-right: 0px;
+    margin-top: -220px;
+    
+    cursor: pointer;
+
+
+}
+.OTHER{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+    box-sizing: border-box;
+     padding: 31px;
+    margin-left:27px;
+    margin-right: 0px;
+    margin-top: 57px;
+    
+    cursor: pointer;
+
+
+}
+.section1{
+    width: 100%px;
+    height: 400px;
+    background-color: blueviolet;
+}
+.section2{
+    width: 1500px;
+    height: 900px;
+    background-color: rgb(125,115, 193);
+    padding-right: 0px;
+    
+}  
+.heading4{ 
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    text-align: center;
+
+}
+.explpore{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+    box-sizing: border-box;
+     padding: 31px;
+    margin-left:27px;
+    margin-right: 0px;
+    margin-top: 57px;
+    
+    cursor: pointer;
+
+
+}
+.courses{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:493px;
+    margin-right: 0px;
+    margin-top: -215px;
+    
+    cursor: pointer;
+
+
+}
+.Exams{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:949px;
+    margin-right: 0px;
+    margin-top: -218px;
+    
+    cursor: pointer;
+}
+.Getguidance{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:29px;
+    margin-right: 0px;
+    margin-top: 50px;
+    
+    cursor: pointer;
+
+}
+.Notes{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:491px;
+    margin-right: 0px;
+    margin-top: -219px;
+    
+    cursor: pointer;
+
+
+}
+.placement{
+    width:319px;
+    height:218px;
+    border:1px solid black ;
+     box-sizing: border-box;
+     padding: 31px;
+    margin-left:949px;
+    margin-right: 0px;
+    margin-top: -220px;
+    
+    cursor: pointer;
+
+}
+.section3{
+    width: 1500px;
+    height: 700px;
+    background-color: rgb(245,245,245);
+
+}  
+footer{
+    height: 0px;
+    background-color: rgb(11, 2, 50);
+    color:black;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    top: 30%;
+    left: 30%;
+    /* position: relative; */
+}
+.flex-all-center h2 {
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    /* position: absolute; */
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    /* transform: translate(-50%); */
+}
+.lastlogo{
+    margin-left: 550px;
+    margin-top: 67px  ;
+    margin-bottom: -64px;
+}
+
+
+      
+      
+
+    
+
+/*.box{
+    width: 100px;
+    height: 1px;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left:500px ;
+    display: inline;
+    margin-top: 40px;
+    border: 40px;
+    margin-bottom: 5000px;
+
+} */
+
+/*.split {
+    background-color: blueviolet;
+    height: 50%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  /* Control the left side */
+ /* .left {
+    left: 0;
+    background-color: #111;
+  }
+  
+  /* Control the right side */
+  /*.right {
+    right: 0;
+    background-color: red;
+  }
+  
+  /* If you want the content centered horizontally and vertically */
+  /*.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  /* Style the image inside the centered container, if needed */
+  /*.centered img {
+    width: 150px;
+    border-radius: 50%;
+  }
+.split {
+    margin-top: 1000px;
+    height: 80%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    background-color: rgb(7, 7, 99);
+  }
+  
+  /*.horizontal2 {
+    left: 0;
+    background-color:rgb(4, 4, 131);
+  }*/
+  
